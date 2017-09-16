@@ -19,7 +19,8 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="26dp"
         android:allowUndo="false"
-        android:text="I am thinking about a number between 1 and 20."
+        android:text="I am thinking a number between 1 and 20."
+        android:textAppearance="@android:style/TextAppearance.Material.Medium"
         tools:textStyle="bold" />
 
     <TextView
